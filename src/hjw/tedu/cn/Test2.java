@@ -8,6 +8,5 @@ public class Test2 {
         System.out.println("hello git4");
         System.out.println("mast hello");
         System.out.println("hot-fix test");
-        System.out.println("???");
     }
 }
